@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5f405413d711bffcdae0eaf2",
+  "owner": "cyhttgr",
+  "repo": "page-67cc015b40ac95e05c6d228c",
+  "title": "机场推荐",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "67cc015b40ac95e05c6d228c",
+      "a": "机场推荐",
+      "b": "",
+      "entity": "机场推荐",
+      "brand": "机场推荐",
+      "separator": "",
+      "path": "index.html",
+      "hash": "53a8ec5bc358913460095e8c78a64730ce726ddfe12b49e58e021f3ac952e1ed",
+      "content": {
+        "keyword1": "机场推荐",
+        "keyword2": "",
+        "primary_entity": "机场推荐",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "机场推荐为您提供高质量的VPN和机场服务，支持稳定网络加速、流媒体解锁和设备在线。订阅基础版、旗舰版或团队版，享受极致体验。",
+          "AI_DESCRIPTION": "机场推荐为您提供高质量的VPN和机场服务，支持稳定网络加速、流媒体解锁和设备在线。订阅基础版、旗舰版或团队版，享受极致体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: 'Helvetica Neue', Arial, sans-serif;\n  background-color: #f0f0f0;\n  color: #333;\n  line-height: 1.6;\n  margin: 0;\n  padding: 0;\n}\n.main {\n  max-width: 1000px;\n  margin: 0 auto;\n  padding: 20px;\n}\nh1 {\n  color: #8a2be2;\n  text-align: center;\n  font-size: 2.5em;\n  margin-bottom: 10px;\n}\nh2 {\n  color: #8a2be2;\n  margin-top: 40px;\n  font-size: 1.8em;\n}\nh3 {\n  color: #6b5b95;\n  font-size: 1.4em;\n  margin-bottom: 8px;\n}\n.plan {\n  background: white;\n  border: 1px solid #d0d0d0;\n  padding: 20px;\n  margin: 15px 0;\n  border-radius: 8px;\n}\n.plan.featured {\n  border-color: #8a2be2;\n  box-shadow: 0 4px 8px rgba(138, 42, 226, 0.1);\n}\n.features {\n  list-style: none;\n  padding: 0;\n}\n.features li {\n  margin: 8px 0;\n  padding-left: 20px;\n  position: relative;\n}\n.features li:before {\n  content: \"✓\";\n  position: absolute;\n  left: 0;\n  color: #8a2be2;\n}\ndetails {\n  background: white;\n  border: 1px solid #d0d0d0;\n  border-radius: 8px;\n  margin: 10px 0;\n}\nsummary {\n  padding: 15px;\n  font-weight: bold;\n  cursor: pointer;\n  color: #8a2be2;\n}\ndetails[open] summary {\n  background: #f8f8f8;\n}\nfooter {\n  background: #8a2be2;\n  color: white;\n  text-align: center;\n  padding: 20px;\n  margin-top: 40px;\n}\n@media (max-width: 600px) {\n  h1 { font-size: 2em; }\n  .main { padding: 10px; }\n}\n</style>\n\n\n<main class=\"main\">\n<h1>机场推荐</h1>\n<h2>欢迎使用机场推荐</h2>\n<p>机场推荐是专注于稳定VPN和机场服务的品牌，提供多种订阅方案，帮助用户突破网络限制，获得高速无忧的浏览和加速体验。无论个人日常使用还是团队协作，我们都能满足不同需求。</p>\n<h2>订阅方案</h2>\n<div class=\"plan\">\n<h3>基础版</h3>\n<p>¥15/月 | 按年付仅需 ¥150/年</p>\n<ul class=\"features\">\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"plan featured\">\n<h3>旗舰版</h3>\n<p>¥35/月 | 按年付仅需 ¥350/年</p>\n<ul class=\"features\">\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"plan\">\n<h3>团队版</h3>\n<p>¥85/月 | 按年付仅需 ¥850/年</p>\n<ul class=\"features\">\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n<h2>使用场景</h2>\n<p>机场推荐适用于日常上网、流媒体追剧、在线游戏加速以及企业远程办公等场景。通过稳定的节点和高速线路，您可以轻松解锁Netflix、Disney+等平台的限制，获得流畅的观看体验。</p>\n<h2>操作说明</h2>\n<ol>\n<li>访问官网进行订阅，选择适合的方案并完成支付。</li>\n<li>收到订阅成功通知后，下载官方客户端。</li>\n<li>配置节点信息，连接服务器开始使用。</li>\n<li>享受无忧的网络加速服务。</li>\n</ol>\n<h2>常见问题</h2>\n<details>\n<summary>什么是机场推荐？</summary>\n<p>机场推荐是一个专注于提供稳定VPN加速服务的品牌，旨在帮助用户轻松解锁网络限制并获得高速体验。</p>\n</details>\n<details>\n<summary>如何选择订阅方案？</summary>\n<p>根据您的流量需求和设备数量选择：基础版适合个人使用，旗舰版适合重度用户，团队版适合多人协作或企业用户。</p>\n</details>\n<details>\n<summary>支持多少台设备同时在线？</summary>\n<p>基础版支持3台，旗舰版支持5台，团队版支持20台，您可以根据需求选择。</p>\n</details>\n<details>\n<summary>如何下载客户端？</summary>\n<p>在订阅成功后，登录您的账户即可下载官方客户端，支持Windows、Mac、Android和iOS等系统。</p>\n</details>\n<details>\n<summary>退款政策如何？</summary>\n<p>我们提供7天无理由退款，具体以订阅页面为准。如有疑问，请联系我们的在线客服。</p>\n</details>\n<details>\n<summary>节点质量如何？</summary>\n<p>旗舰版及以上方案提供IPLC专线，确保低延迟和高稳定性。普通用户也可通过普通节点池享受良好服务。</p>\n</details>\n<footer>\n<p>广告和友链：广告位待定 | 友情链接：暂无</p>\n<p>© 2024 机场推荐 所有权利保留</p>\n</footer>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "5085472e8a158d1f6193cd0a8c358ea9ecadfa2cb6669b0d5a060ae03a74e776",
+          "seo": {
+            "title": "机场推荐 - 专业VPN加速器 | 机场订阅 & 客户端下载",
+            "keywords": "机场推荐,VPN加速器,机场订阅,客户端下载,官网下载,网络加速",
+            "description": "机场推荐为您提供高质量的VPN和机场服务，支持稳定网络加速、流媒体解锁和设备在线。订阅基础版、旗舰版或团队版，享受极致体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sglqpkt.cn",
+    "host": "p-e74bda3136.sglqpkt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "45f5ea36ebd3bb80651d87fba8b253bc34568f8da8b6b47bbbd1868d75a014a1",
+    "sitemap.xml": "b5d94686fb6ab395983cba9479056cc105964c115e7f112ccedffef6f582855d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "caece8f19a4029eff6a471f63736891af8444d5a4242d5530d44eebd4b9b3c76",
+    "robots.txt": "dd771e9ff4f127ef033ff289d967a4956fcb7868cec81843f242d3825395a145",
+    "4220089fbe0cf7b7374fb5bc9c52ea22.txt": "e246305e95f848ebbc5dcc7c3f324f265868597029c7957ce50755e80a02fd64"
+  },
+  "revision": "71a4a95464a400568e665168e4b372744babc50cdc582fdaeee1c27e58db22f4"
+}
